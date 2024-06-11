@@ -1,0 +1,6 @@
+STAFF_ID#EMAIL#PASSWORD#NAME#SURNAME#GENDER#PHONE#POSITION#DATE_REGISTERED
+100#admin@scis.bw#pass@123#System#Admin#Male#71710000#Admin#01/Jan/2020
+200#registrar@scis.bw#pass@123#Elias#Emmanuel#Male#72720000#Registrar#01/Feb/2020
+300#alice@scis.bw#pass@123#Alice#Johnson#Female#74740000#Admin Assistant#01/Mar/2020
+400#laone@scis.bw#pass@123#Laone#Malema#Male#75750000#Lecturer#01/Apr/2020
+500#kagiso@scis.bw#pass@123#Kagiso#Nonyane#Male#76760000#Lecturer#01/May/2020

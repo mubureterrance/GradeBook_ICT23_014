@@ -1,0 +1,45 @@
+STUDENT_ID#FIRSTNAME#SURNAME#GENDER#DOB#PHONE#PROGRAM#LEVEL#MODULE
+abc23-005#Lefika Samantha#Raditladi#Female#01/Jan/2005#26776942939#ABC#level 1#ABC104
+abc23-006#Thuo Rolf#Setima#Male#20/Apr/2024#26776995624#ABC#level 1#ABC104
+abc23-009#Dylan Atlang#Coetzee#Male#01/Jan/2005#2677562369#ABC#level 1#ABC104
+abc23-010#Larona#Wilson#Female#01/Jan/2005#2677111689#ABC#level 1#ABC104
+abc23-011#Leah Segofalang#Mmolawa#Female#01/Jan/2005#26774247015#ABC#level 1#ABC104
+abc23-012#Botho Randy#Molathlegi#Male#01/Jan/2005#26772363380#ABC#level 1#ABC104
+abc23-013#Wetsho Sekwane#Letsididi#Male#01/Jan/2005#2677458412#ABC#level 1#ABC104
+abc23-014#Future#Batoli#Female#01/Jan/2005#2677258869#ABC#level 1#ABC104
+abc23-015#Thero#Mpharitlhe#Male#01/Jan/2005#26778951007#ABC#level 1#ABC104
+abc23-016#Rafiwa Fifi#Molebatsi#Female#01/Jan/2005#2677483255#ABC#level 1#ABC104
+abc23-017#Shatho#Mphampi#Female#20/Apr/2024#26778522130#ABC#level 1#ABC104
+abc23-018#Neo Megan#Nthebolang#Female#01/Jan/2005#2677123321#ABC#level 1#ABC104
+abc23-019#Oabilwe#Bolekilwe#Male#01/Jan/2005#26770012458#ABC#level 1#ABC104
+abc23-020#Tshepiso Cassey Naledi#Phiri#Female#01/Jan/2005#26770142569#ABC#level 1#ABC104
+abc23-021#Letso Hope#Keatswitswe#Female#01/Jan/2005#26776409798#ABC#level 1#ABC104
+abc23-022#Segofatsa Lentlafetse#Mafoko#Female#01/Jan/2005#26776691882#ABC#level 1#ABC104
+abc23-034#Lone#Modibedi#Female#01/Jan/2005#26772537269#ABC#level 1#ABC104
+abc23-023#Dainty Abigail#Captain#Female#01/Jan/2005#2774377233#ABC#level 1#ABC104
+abc23-024#Gobakwe Mpho#Modisane#Male#01/Jan/2005#2677775609#ABC#level 1#ABC104
+abc23-025#Oratile#Smart#Female#01/Jan/2005#26771787358#ABC#level 1#ABC104
+abc23-027#Amantle Hope#Nthubu#Female#01/Jan/2005#26771521519#ABC#level 1#ABC104
+abc23-028#Martin#Keatlholetswe#Male#01/Jan/2005#26775487981#ABC#level 1#ABC104
+abc23-029#Alex Bradley#Matyenyika#Male#20/Apr/2024#26772587410#ABC#level 1#ABC104
+abc23-030#Lefika Shaun Maatla#Koone#Male#01/Jan/2005#26775371392#ABC#level 1#ABC104
+abc23-031#Theo Kgosi#Masole#Male#01/Jan/2005#26774096077#ABC#level 1#ABC104
+abc23-032#Boago#Mojaphoko#Female#01/Jan/2005#2677147580#ABC#level 1#ABC104
+abc23-035#Larry#Thebenala#Male#01/Jan/2005#26775841720#ABC#level 1#ABC104
+abc23-036#Daniel Rebafenyi#Moroka#Male#01/Jan/2005#26772125412#ABC#level 1#ABC104
+abc23-038#Munashe#Charambira#Female#01/Jan/2005#26773923324#ABC#level 1#ABC104
+ict23-001#Michelle#Tagwa#Female#01/Jan/2005#26777169477#ABC#level 1#ABC104
+ict23-002#Thabiso#Modise#Male#01/Jan/2005#267748117957#ABC#level 1#ABC104
+ict23-003#Kamogelo#Motokwa#Female#01/Jan/2005#26772731458#ABC#level 1#ABC104
+ict23-004#atlang#Modie#Male#01/Jan/2005#26772257457#ABC#level 1#ABC104
+ict23-006#Kutlo Dawn#Kebinakgabo#Female#01/Jan/2005#26775762686#ABC#level 1#ABC104
+ict23-007#Eddie Thabo#Mogwadi#Male#01/Jan/2005#267715155794#ABC#level 1#ABC104
+ict23-008#Mmoloki Teko#Khutshwe#Male#01/Jan/2005#26775536794#ABC#level 1#ABC104
+ict23-009#Bofelo Oduetse#Poloko#Female#01/Jan/2005#26774136899#ABC#level 1#ABC104
+ict23-010#Boipelo#Lekoba#Female#01/Jan/2005#2678956412#ABC#level 1#ABC104
+ict23-011#Gabriel Mompati#Sibanda#Male#01/Jan/2005#26771763559#ABC#level 1#ABC104
+ict23-012#Motheo Michelle#Sesuma#Female#01/Jan/2005#267717663559#ABC#level 1#ABC104
+ict23-013#Bimbo Earthen#Lebopo#Male#01/Jan/2005#26778143722#ABC#level 1#ABC104
+ict23-014#Terrance Takudzwa#Mubure#Male#01/Jan/2005#26771356081#ABC#level 1#ABC104
+abc23-008#Prince Lebohang L#Matshaba#Male#01/Jan/2005#2677362014#ABC#level 1#ABC104
+ict23-015#Damian Kgosi#Sambiri#Male#01/Apr/2005#753159258#ICT#level 1#ABC104
